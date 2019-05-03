@@ -1,6 +1,6 @@
 {
-	"name": "exodusanto/administrator",
-	"description": "A database interface package for Laravel (Legacy of Frozennode Laravel-Administrator)",
+	"name": "tidalgo22/administrator",
+	"description": "A database interface package for Laravel (Legacy of Frozennode Laravel-Administrator) and (exodusanto Laravel-Admin)",
 	"homepage": "http://administrator.frozennode.com",
 	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms"],
 	"license": "MIT",
@@ -12,10 +12,14 @@
 		{
 			"name": "Antonio Dal Sie",
 			"email": "info@antoniodalsie.com"
+		},
+		{
+			"name": "Rheman Tidalgo",
+			"email": "rheman.tidalgo@gmail.com"
 		}
 	],
 	"support": {
-		"issues": "https://github.com/exodusanto/Laravel-Admin/issues"
+		"issues": "https://github.com/tidalgo22/Laravel-Admin/issues"
 	},
 	"require": {
 		"php": ">=7.1.3",
