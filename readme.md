@@ -27,7 +27,7 @@ New Version
 To install Administrator as a Composer package to be used with Laravel 5.8, simply run:
 
 ```sh
-composer require "exodusanto/administrator: 5.8.*"
+composer require "tidalgo22/administrator: 5.8.*"
 ```
 
 Once it's installed, you can register the service provider in `config/app.php` in the `providers` array:
