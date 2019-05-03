@@ -18,6 +18,12 @@
 			"email": "rheman.tidalgo@gmail.com"
 		}
 	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/tidalgo22/Laravel-Admin"
+		}
+	],
 	"support": {
 		"issues": "https://github.com/tidalgo22/Laravel-Admin/issues"
 	},
